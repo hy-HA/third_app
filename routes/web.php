@@ -22,3 +22,4 @@ Route::get('/index/{tomato}/comments/{apple}', [WelcomeController::class,'show']
 
 // 수정
 // 수정2
+// temp에서 수정3
